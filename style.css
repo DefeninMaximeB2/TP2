@@ -6,11 +6,13 @@
 
 #header
 {
-	background: #ccc;
+	background: #046380;
 	padding: 20px;
 }
 
-#header h1 { margin: 0; }
+#header h1 { margin: 0;
+	     color:#EDF7F2;
+	   }
 
 #navigation
 {
